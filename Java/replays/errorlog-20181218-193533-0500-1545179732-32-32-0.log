@@ -1,0 +1,59 @@
+
+Turn 8
+================================================================
+warning: owned entities 6, 4 collided on cell (9, 16) as the result of moves on this turn
+At command 4 of 4:
+    2   m 0 n
+    3   m 4 o
+>>> 4   m 6 e
+
+
+Turn 11
+================================================================
+warning: entity 8 was directed to use 7 halite to move east, but only 0 halite was available
+At command 3 of 3:
+    1   m 2 o
+    2   m 0 s
+>>> 3   m 8 e
+
+
+Turn 12
+================================================================
+warning: owned entities 8, 2 collided on cell (7, 17) as the result of moves on this turn
+At command 3 of 3:
+    1   m 2 o
+    2   m 0 n
+>>> 3   m 8 w
+
+
+Turn 200
+================================================================
+warning: entity 0 was directed to use 8 halite to move north, but only 0 halite was available
+At command 1 of 2:
+>>> 1   m 0 n
+    2   g
+
+
+Turn 202
+================================================================
+warning: entity 10 was directed to use 6 halite to move west, but only 0 halite was available
+At command 2 of 2:
+    1   m 0 e
+>>> 2   m 10 w
+
+
+Turn 206
+================================================================
+warning: entity 10 was directed to use 8 halite to move north, but only 4 halite was available
+At command 2 of 2:
+    1   m 0 o
+>>> 2   m 10 n
+
+
+Turn 210
+================================================================
+warning: owned entities 10, 0 collided on cell (11, 15) as the result of moves on this turn
+At command 2 of 2:
+    1   m 0 o
+>>> 2   m 10 e
+
